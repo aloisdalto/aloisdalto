@@ -1,6 +1,9 @@
 # 💫 About Me:
-¡Hola! Soy un programador junior apasionado por la tecnología y el desarrollo de software. Con tan solo 23 años y desde Venezuela 🌎, estoy enfocado en crecer profesionalmente y superar nuevos desafíos en el mundo de la programación.<br>Mi meta es formar parte de proyectos innovadores y de alto impacto, donde pueda contribuir con mis habilidades, aprender de grandes equipos y seguir evolucionando como desarrollador. Me caracterizo por ser una persona curiosa, responsable y orientada al aprendizaje continuo. Cada día busco mejorar mis conocimientos y enfrentar problemas complejos con soluciones creativas.<br>En mi perfil encontrarás algunos de los proyectos en los que he trabajado, tanto personales como colaborativos. Estoy abierto a nuevas oportunidades y desafíos, así que si estás buscando un programador motivado, comprometido y con ganas de crecer, no dudes en contactarme.<br>💻 Tecnologías y áreas de interés:<br>Desarrollo web y móvil<br>Programación orientada a objetos<br>Soluciones backend y frontend<br>📫 ¿Hablamos? Puedes contactarme a través de GitHub o en mis redes sociales. ¡Estoy emocionado por colaborar contigo y construir algo increíble juntos!
-
+Hola que tal!
+<br>
+Desarrollo Web y Movil FullStack, he trabajado con tecnologias para frontend como: React, Vue.js y Flutter, y del lado del backend he trabajado con Laravel y Node.js.
+<br>
+Nota: Me define la perseverancia. No me conformo con lo que sé hoy; mi meta es dominar cada herramienta que toco y superar las expectativas en cada entrega. Estoy en esto por el largo plazo y la excelencia técnica.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajdp_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aloisdalto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aloisdalto@gmail.com) 
