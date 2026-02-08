@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hola que tal!
-<br>
+<br><br>
 Desarrollo Web y Movil FullStack, he trabajado con tecnologias para frontend como: React, Vue.js y Flutter, y del lado del backend he trabajado con Laravel y Node.js.
-<br>
+<br><br>
 Nota: Me define la perseverancia. No me conformo con lo que sé hoy; mi meta es dominar cada herramienta que toco y superar las expectativas en cada entrega. Estoy en esto por el largo plazo y la excelencia técnica.
 
 ## 🌐 Socials:
