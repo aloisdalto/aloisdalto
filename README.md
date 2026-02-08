@@ -4,6 +4,8 @@ Hola que tal!
 Desarrollo Web y Movil FullStack, he trabajado con tecnologias para frontend como: React, Vue.js y Flutter, y del lado del backend he trabajado con Laravel y Node.js.
 <br><br>
 Nota: Me define la perseverancia. No me conformo con lo que sé hoy; mi meta es dominar cada herramienta que toco y superar las expectativas en cada entrega. Estoy en esto por el largo plazo y la excelencia técnica.
+<br><br>
+Visita mi portafolio personal y observa mis proyectos: https://portafolio-alois.vercel.app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajdp_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aloisdalto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aloisdalto@gmail.com) 
